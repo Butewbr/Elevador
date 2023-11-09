@@ -1,0 +1,8 @@
+.generated_files/
+build/
+dist/
+nbproject/private/
+Makefile-*
+Package-*
+Proteus/Project Backups/
+*.workspace
