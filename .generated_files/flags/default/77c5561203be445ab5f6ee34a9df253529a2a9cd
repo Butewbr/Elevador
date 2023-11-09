@@ -1,1 +1,0 @@
- -c -mcpu=$(MP_PROCESSOR_OPTION)  -omf=elf -DXPRJ_default=$(CND_CONF)    -Wa,-g,--no-relax$(MP_EXTRA_AS_POST) D:\대학교\일곱 번째 학기\Sistemas Operacionais Embarcados\trab2\trab_so\portasm_PIC24.S
